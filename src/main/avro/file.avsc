@@ -1,0 +1,9 @@
+{"namespace": "de.am",
+  "type": "record",
+  "name": "File",
+  "fields": [
+    {"name": "name", "type": "string"},
+    {"name": "datetime", "type": "string"},
+    {"name": "data",  "type": "bytes"}
+  ]
+}
